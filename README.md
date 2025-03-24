@@ -27,7 +27,7 @@
 
 
 <div align="center">ㅤ
-  <h2>🖌 - FullStack / Game- 🧱</h2>
+  <h2>🖌 - FullStack / Game - 🧱</h2>
 </div>
 
 <div align="center" >
