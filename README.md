@@ -1,5 +1,5 @@
 <h2 align="center
-"> Hi👋! My name is Kauã Lucas and i'am Dev Junior</h2>
+"> Hi👋! My name is Kauã Lucas and i'm Dev Junior</h2>
 
 ###
 
